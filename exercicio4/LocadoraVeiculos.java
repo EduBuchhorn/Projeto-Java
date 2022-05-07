@@ -1,4 +1,4 @@
-package EX4;
+package exercicio4;
 
 import java.util.Scanner;
 
